@@ -1,0 +1,8 @@
+package com.demo.kafka;
+
+public class SpringKafkaApplication {
+
+	public static void main(String args[]) {
+		System.out.println("Hello");
+	}
+}
